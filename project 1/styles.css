@@ -1,2 +1,14 @@
-.container
-background colgroup
+html{
+    background-color: aqua;
+}
+h1,h2{
+    color: red
+}
+
+th,td {
+border: 1px solid black;
+}
+
+
+
+
